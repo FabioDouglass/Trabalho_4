@@ -1,0 +1,5 @@
+Vertices: 5
+Arestas: 5
+Grau Máximo: 4
+Grau Mínimo: 1
+Grau Médio: 2.0
